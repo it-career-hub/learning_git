@@ -1,0 +1,407 @@
+    1  LS
+    2  CD..
+    3  cd
+    4  cat ~/ C/users/second/.ssh.id_rsa.pub.
+    5  cat ~/ c/users/second/.ssh.id_rsa.pub.
+    6  cat / c/users/second/.ssh.id_rsa.pub.
+    7  cat /users/second/.ssh.id_rsa.pub.
+    8  cat \Users\second/.ssh/id_rsa.pub.
+    9  cat ~ \Users\second/.ssh/id_rsa.pub.
+   10  cat .ssh/id_rsa.pub.
+   11  cat /.ssh/id_rsa.pub.
+   12  cat ~/.ssh/id_rsa.pub.
+   13  ls
+   14  ls /users
+   15  ls /Users
+   16  ls /c:
+   17  c:
+   18  vd
+   19  cd
+   20  dir
+   21  ls \Users\second\.ssh~
+   22  ls \Users\seconddir
+   23  ls
+   24  200~ssh ec2-user@linux.itcareerhub.de
+   25  ssh ec2-user@linux.itcareerhub.de
+   26  help
+   27  [200~scp username@remote_host:/path/to/example.txt /path/to/destination
+   28  dir
+   29  cd desktop
+   30  [200~
+   31  ssh ec2-user@linux.itcareerhub.de
+   32  ssh ec2-user@linux.itcareerhub.de
+   33  ssh ec2-user@linux.itcareerhub.de
+   34  ssh ec2-user@linux.itcareerhub.de
+   35  [200~ssh ec2-user@linux.itcareerhub.
+   36  $ ^[[200~ssh ec2-user@linux.itcareerhub.
+   37  ssh ec2-user@linux.itcareerhub.de
+   38  [200~find /opt -type f -name "*.txt"; locate os-release; for ((i = 1; i <= 10; i++)); do echo $i; done; for i in {1..10}; do echo $i; done
+   39  ssh ec2-user@linux.itcareerhub.de
+   40  vi /tmp/file.txt или nano /tmp/file.txt
+   41  clear
+   42  vi /tmp/file.txt
+   43  df -h /tmp/file.txt
+   44  clear
+   45  mkdir /tmp/file.txt
+   46  vi /tmp/file.txt
+   47  df -h /tmp/file.txt
+   48  chmod 770 /tmp/file.txt
+   49  chmod u+rwx,g+rw,o-rwx /tmp/file.txt
+   50  touch myfirstbashscript.sh /tmp
+   51  chmod +x /tmp/myfirstbashscript.sh
+   52  chmod +x myfirstbashscript.sh
+   53  USER=ANAR
+   54  vi myfirstbashscript.sh
+   55  vi myfirstbashscript.sh
+   56  ni myfirstbashscript.sh
+   57  nano myfirstbashscript.sh
+   58  cat myfirstbashscript.sh >> /tmp/file.txt
+   59  cat myfirstbashscript.sh >> /tmp/tmp/file.txt
+   60  cat myfirstbashscript.sh >> /tmp/file.txt
+   61  [200~cat myfirstbashscript.sh >> /tmp/file.txt
+   62  200~cat myfirstbashscript.sh >> /tmp/file.txt
+   63  export_file /tmp/file.txt
+   64  vi /tmp/file.txt
+   65  ssh ec2-user@linux.itcareerhub.de
+   66  #!/bin/bash
+   67  # Переменная с путем к директории для проверки
+   68  YULIIA_DIR="/opt/220424-ptm"
+   69  # Получаем список всех файлов в директории
+   70  FILE_LIST=$(ls -p "$YULIIA_DIR" | grep -v /)
+   71  # Перебираем каждый файл
+   72  for FILE in $FILE_LIST; do
+   73      if [[ "$FILE" == *.sh ]]; then
+   74          chmod +x "$YULIIA_DIR/$FILE";         echo "Добавлены права на исполнение для файла: $FILE";     fi; done
+   75  echo "Права на исполнение успешно добавлены для файлов .sh в директории $YULIIA_DIR."
+   76  d:
+   77  cd d:
+   78  dir
+   79  cd allgit
+   80  dir
+   81  cd git_init
+   82  git init
+   83  git add photo
+   84  git add pythonlogo
+   85  git add pythonlogo.jpg
+   86  git commit -m "pythonlogo"
+   87  git branch -M main
+   88  git remote add origin git@github.com:AtillaAnar/git_intro.git
+   89  git push -u
+   90  git push -u origin main
+   91  git remote add origin git@github.com:AnarAtilla/git_intro.git
+   92  git branch -M main
+   93  git push -u orign main
+   94  git remote -v
+   95  git push -u origin main
+   96  git pull origin main
+   97  git push origin main
+   98  git pull origin main
+   99  git pull origin main --allow-unrelated-histories
+  100  git pull origin main
+  101  git add.
+  102  git add .
+  103  git remote add origin git@github.com:AnarAtilla/git_intro.git
+  104  git add pythonlogo.jpg
+  105  git commit -m "pythonlogo"
+  106  git add <pythonlogo.jpg>
+  107  git add pythonlogo.jpg
+  108  git commit -m "pythonlogo"
+  109  git status
+  110  git log
+  111  git pull origin main
+  112  git add D:\allgit\git_init\pythonlogo.jpg
+  113  git add pythonlogo.jpg
+  114  git commit -m "pythonlogo.jpg pythonlogo.jpg"
+  115  git status
+  116  git log
+  117  git status
+  118  git logs
+  119  git log
+  120  git status
+  121  git add .
+  122  git push origin main
+  123  ssh ec2-user@linux.itcareerhub.de
+  124  ssh ec2-user@linux.itcareerhub.de
+  125  cd d:
+  126  cd allgit
+  127  dir
+  128  cd dlya_dz12
+  129  git init
+  130  git ad .
+  131  git add .
+  132  git commit -m 'proverka'
+  133  git push origin feature
+  134  git clone git@github.com:AnarAtilla/dlya_dz12.git
+  135  git commit --amend
+  136  cd d:
+  137  cd allgit
+  138  git init
+  139  dir
+  140  cd dlya_dz12
+  141  git init
+  142  dir
+  143  cdşş
+  144  cd ..
+  145  cd d:
+  146  dir
+  147  cd allgit
+  148  dir
+  149  rm dlya_dz12
+  150  git rm -r dlya_dz12
+  151  git init
+  152  git rm -r dlya_dz12
+  153  git status
+  154  git add dlya_dz12
+  155  git rm --cached dlya_dz12
+  156  git add .
+  157  cd dlya_dz12
+  158  git add .
+  159  git commit -m "proverka"
+  160  git status
+  161  git branch
+  162  chekout <feature>
+  163  chekout feature
+  164  checkout <branch>
+  165  git add .
+  166  git commit -m "proverka"
+  167  git add history.txt
+  168  git commit -m "proverka"
+  169  git status
+  170  git status
+  171  git init
+  172  git add .
+  173  git commit -m "proverka"
+  174  git add history.txt
+  175  git commit -m "proverka"
+  176  cd dlya_dz12
+  177  git status
+  178  git merge feature
+  179  git push origin feature
+  180  git push origin main
+  181  git chekout feature
+  182  git feature
+  183  git branch
+  184  cd feature
+  185  git chekout feature
+  186  git checkout feature
+  187  git add .
+  188  git commit -m "proverka"
+  189  [200~git checkout feature
+  190  git checkout feature
+  191  git branch
+  192  cd..
+  193  cd
+  194  cd d:
+  195  cd allgit
+  196  dir
+  197  git branch
+  198  cd dlya dz12
+  199  cd dlya_dz12
+  200  git status
+  201  git push origin feature
+  202  dir
+  203  nano README.md
+  204  nano dlya_dz12
+  205  dir
+  206  nano history.txt
+  207  touch .gitignore
+  208  nano .gitignore
+  209  git add .gitignore
+  210  git add .gitignore
+  211   git commit -m "Add .gitignore file with rules"
+  212  git push origin feature
+  213  git remote -v
+  214  git remote add origin git@github.com:AnarAtilla/dlya_dz12.git
+  215  git push origin feature
+  216  dir
+  217  cd allgit
+  218  cd..
+  219  cd allgit
+  220  cd..
+  221  dir
+  222  git brunch
+  223  git status
+  224  git add .
+  225  git add .
+  226  git commit -m "kommentariy"
+  227  git push origin main
+  228  git status
+  229  cd dlya_dz12
+  230  git push origin main
+  231  history > hirstorymain.txt
+  232  dir
+  233  git add historymain.txt
+  234  git add .
+  235  git add historymain.txt
+  236  git add .
+  237  git commit -m "dovablena istoriya"
+  238  git push origin main
+  239  ssh ec2-user@linux.itcareerhub.de
+  240  ssh ec2-user@linux.itcareerhub.de
+  241  ssh ec2-user@linux.itcareerhub.de
+  242  scp ec2-user@ip-10-0-42-153:/opt/220424-ptm/Anar/hw13/task_ANAR.sh /D:/kurs zagruz/linux home
+  243  scp ec2-user@ip-10-0-42-153:/opt/220424-ptm/Anar/hw13/task_ANAR.sh /D:/kurs zagruz/linux home
+  244  scp ec2-user@ip-10-0-42-153:/opt/220424-ptm/Anar/hw13/task_ANAR.sh "/D:/kurs zagruz/linux home"
+  245  scp  ec2-user@linux.itcareerhub.de:/opt/220424-ptm/Anar/hw13/task_ANAR.sh /D:/kurs zagruz/linux home
+  246  scp ec2-user@linux.itcareerhub.de:/opt/220424-ptm/Anar/hw13/task_ANAR.sh /D:/kurs zagruz/linux home
+  247  scp ec2-user@linux.itcareerhub.de:/opt/220424-ptm/Anar/hw13/task_ANAR.sh "/D:/kurs zagruz/linux home"
+  248  scp ec2-user@linux.itcareerhub.de:"/opt/220424-ptm/Anar/hw13/task_ANAR.sh" /D:/kurs zagruz/linux home
+  249  scp ec2-user@linux.itcareerhub.de:/opt/220424-ptm/Anar/hw13/task_ANAR.sh "/D:/kurs zagruz/linux home"
+  250  scp ec2-user@linux.itcareerhub.de:/opt/220424-ptm/Anar/hw13/task_ANAR.sh /C:/Users/second/Pictures
+  251  scp ec2-user@linux.itcareerhub.de:/opt/220424-ptm/Anar/hw13/task_ANAR.sh "/C:/Users/second/Pictures"
+  252  scp ec2-user@linux.itcareerhub.de:/opt/220424-ptm/Anar/hw13/task_ANAR.sh /C:/Users/second/Pictures
+  253  scp ec2-user@linux.itcareerhub.de:/opt/220424-ptm/Anar/hw13/task_ANAR.sh "/mnt/c/Users/second/Pictures"
+  254  scp ec2-user@linux.itcareerhub.de:/opt/220424-ptm/Anar/hw13/task_ANAR.sh /mnt/c/Users/second/Pictures
+  255  scp ec2-user@linux.itcareerhub.de:/opt/220424-ptm/Anar/hw13/task_ANAR.sh "/mnt/c/Users/second/Pictures"
+  256  scp ec2-user@linux.itcareerhub.de:/opt/220424-ptm/Anar/hw13/task_ANAR.sh "/mnt/c/Users/second/Pictures"
+  257  scp ec2-user@linux.itcareerhub.de:/opt/220424-ptm/Anar/hw13/task_ANAR.sh /C:/Users/second/Pictures
+  258  scp ec2-user@linux.itcareerhub.de:/opt/220424-ptm/Anar/hw13/task_ANAR.sh /C:/Users/second/Pictures
+  259  scp ec2-user@linux.itcareerhub.de:/opt/220424-ptm/Anar/hw13/task_ANAR.sh "/mnt/c/Users/second/Pictures"
+  260  scd ec2-user@linux.itcareerhub.de:/opt/220424-ptm/Anar/hw13/task_ANAR.sh /C:/Users/second/Pictures
+  261  scp ec2-user@linux.itcareerhub.de:/opt/220424-ptm/Anar/hw13/task_ANAR.sh "/mnt/c/Users/second/Pictures"
+  262  scp ec2-user@linux.itcareerhub.de:/opt/220424-ptm/Anar/hw13/task_ANAR.sh files.txt /mnt/c/Users/second/Pictures
+  263  scp ec2-user@linux.itcareerhub.de:/opt/220424-ptm/Anar/hw13/task_ANAR.sh files.txt
+  264  ls -l
+  265  cd d:
+  266  cd allgit
+  267  git inti
+  268  git init
+  269  git status
+  270  git add dlya_dz12
+  271  git commit -m 'novoe'
+  272   git submodule update
+  273  git push -u origin master
+  274  git push -u origin main
+  275  git push -u origin
+  276  git push -u origin master
+  277  git status
+  278  git commit -a 'novoe'
+  279  git status
+  280  git add dlya_dz12
+  281  git commit 'novoe'
+  282  git commit -m 'novoe'
+  283  cd dlya_az12
+  284  ls dlya_dz12
+  285  git status
+  286  git add dlya_az12
+  287  git add dlya-dz12
+  288  git add dlya_dz12
+  289  git commit -m '10062024'
+  290  git restore dlya_az12
+  291  git restore dlya_dz12
+  292  git status
+  293  git checkout main
+  294  git checkout
+  295  git checkout main
+  296  cd..
+  297  cd
+  298  ls allgit
+  299  cd allgit
+  300  cd d:
+  301  cd allgit
+  302  git checkout main
+  303  git status
+  304  git add dlya_dz12
+  305  git commit -m "Ваше сообщение коммита"
+  306  git add "dlya_dz12"
+  307  git commit -m "Ваше сообщение коммита"
+  308  git add "dlya_dz12"
+  309  git commit -a "Ваше сообщение коммита"
+  310  git add dlya_dz12
+  311  git commit -a "novoe"
+  312  git add ..
+  313  git add .
+  314  git commit -m 'novoe'
+  315  git add .
+  316  git push 
+  317  git push main
+  318  git push master
+  319  git push origin main
+  320  git push origin master
+  321  git init
+  322  dir
+  323  cd dlya_az12
+  324  cd dlya_dz12
+  325  git init
+  326  git status
+  327  git add .
+  328  git status
+  329  git push origin master
+  330  git push origin main
+  331  git checkout main
+  332  git checkout master
+  333  Switched to branch 'main'
+  334  git switched to branch 'main'
+  335  git checkout main
+  336  $ git checkout main
+  337  git checkout main
+  338  git checkout
+  339  git checkout m
+  340  git checkout master
+  341  git checkout main
+  342  git switch main
+  343  git switch maater
+  344  git switch feature
+  345  git switch allgit
+  346  git switch main
+  347  git switch branch
+  348  ls ßl
+  349  ls -l
+  350  git status
+  351  git checkout main
+  352  git checkout allgit
+  353  git checkout main
+  354  git 
+  355  git checkout -b
+  356  git checkout -main
+  357  git checkout -b main
+  358  git checkout main
+  359  git push 
+  360  git push origin main
+  361  git pull origin main
+  362  git push origin main
+  363  git pull origin main
+  364  git pull origin main --allow-unrelated-histories
+  365  git stash
+  366  git pull origin main --allow-unrelated-histories
+  367  git stash
+  368  git stash pop
+  369  git status
+  370  git stash pop
+  371  git stash
+  372  exit
+  373  cd d:
+  374  dir
+  375  cd allgit
+  376  git init
+  377  git status
+  378  git checkout
+  379  git merge main
+  380  git status
+  381  git add dlya_dz12
+  382  git commit -m 'yeni'
+  383  git commit -a 'yeni'
+  384  git checkout main
+  385  dir
+  386  ls dlya_dz12
+  387  ls dlya_dz12
+  388  cd dlya_dz12
+  389  dir
+  390  git status
+  391  git restore README.MD
+  392  ec2-user@linux.itcareerhub.de
+  393  ssh ec2-user@linux.itcareerhub.de
+  394  c d:
+  395  cd d:
+  396  cd allgit
+  397  git init
+  398  git clone git@github.com:AnarAtilla/learning_git.git
+  399  dir
+  400  cd learning_git
+  401  mkdir 220424-ptm
+  402  cd 220424-ptm
+  403  echo "Anar" > ANAR.txt
+  404  git add ANAR.txt
+  405  git commit -m "Добавлен файл с именем Anar> в директорию 220424-ptm"
+  406  git push origin main
+  407  history > history.txt
