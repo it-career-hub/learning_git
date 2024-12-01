@@ -1,0 +1,1000 @@
+   48  vim permission_checker.sh
+   49  ./permission_checker.sh
+   50  ls -la
+   51  chmod -x bash.sh
+   52  ls -la
+   53  chmod -x script_LILJANA.sh
+   54  ls -la
+   55  ./permission_checker.sh
+   56  ls -la
+   57  ./permission_checker.sh
+   58  vim permission_checker.sh
+   59  ./permission_checker.sh
+   60  .permission_checker.sh
+   61  . permission_checker.sh
+   62  .permission_checker.sh
+   63  permission_checker.sh
+   64  vim permission_checker.sh
+   65  .permission_checker.sh
+   66  . permission_checker.sh
+   67  ls -la
+   68  exit
+   69  ls
+   70  pwd
+   71  exit
+   72  ls
+   73  cd ..
+   74  ls
+   75  ls tar
+   76  ls user
+   77  cd ..
+   78  ls
+   79  cd etc/opt
+   80  ls
+   81  cd /
+   82  ls etc
+   83  exit
+   84  cd -
+   85  cd /
+   86  l
+   87  ls
+   88  ls tmp
+   89  cd home
+   90  ls
+   91  cd ec2-user/
+   92  ls
+   93  ls -a
+   94  cd /local
+   95  lsl
+   96  ls
+   97  ls -a
+   98  cd ..
+   99  ls
+  100  ls local
+  101  ls usr
+  102  ls etc
+  103  find -name "Artem*"
+  104  find / -name "Artem*"
+  105  sudo find /home -name "Artem*"
+  106  sudo find / -name "Artem*"
+  107  cd /opt/160924-ptm/iia/learning_git/040324-wde
+  108  \ls
+  109  ls
+  110  cat Artem.java 
+  111  cat ArtemFor.java 
+  112  ls
+  113  cd ..
+  114  ls
+  115  cd /
+  116  cd /opt/160924-ptm/iia/learning_git/040324-wde
+  117  cd /
+  118  cd /opt/260824-wde/Artem_Nazarchuk
+  119  ls
+  120  cd ..
+  121  ls
+  122  cd Yuriy_Doychev/
+  123  ls
+  124  cd 11
+  125  ls
+  126  ls 01
+  127  ls 01/24
+  128  ls
+  129  cd ..
+  130  ls
+  131  ls text
+  132  ls test
+  133  ls test -a
+  134  ls
+  135  cat file.txt
+  136  cat file.sh
+  137  exit
+  138  cd 
+  139  pwd
+  140  ls
+  141  cd ..
+  142  cd -opt
+  143  exit
+  144  cd -opt
+  145  cd /opt
+  146  ls
+  147  find -name "Artem*"
+  148  cd 260824-wde
+  149  ls
+  150  cd Yuriy_Doychev/
+  151  ls
+  152  cd ...
+  153  cd ..
+  154  cd Pykhtina_Irina/
+  155  ls
+  156  cat result.txt 
+  157  exit
+  158  ls -la
+  159  cat именем
+  160  cd именем
+  161  ды -дф
+  162  ls -la
+  163  rm *.24
+  164  rm "*"_20.11.24
+  165  4_20.11.24
+  166  rm 4_20.11.24
+  167  rm в
+  168  rm /с
+  169  cd .
+  170  cd ..
+  171  rm *.24
+  172  rm в
+  173  ды -дф
+  174  ls -la
+  175  rmdir в
+  176  rmdir именем новый репозиторий с Создайте
+  177  ls -la
+  178  cd ещгср
+  179  cat ещгср
+  180  rm ещгср зукьш
+  181  ls -la
+  182  cd /opt/
+  183  ls -la
+  184  cd /160924-ptm
+  185  cd /160924-ptm/
+  186  cd ~/160924-ptm
+  187  cd /opt/160924-ptm
+  188  ls -la
+  189  cd /dmytr0lkh
+  190  cd opt/160924-ptm/dmytr0lkh
+  191  opt/160924-ptm/dmytr0lkh
+  192  cd /opt/160924-ptm/dmytr0lkh
+  193  ls -la
+  194  bash task_Dmytr0.sh
+  195  vim script2211.sh
+  196   vim script2211.sh
+  197  bash script2211.sh
+  198  vim script2211.sh
+  199  bash script2211.sh
+  200  cd ..
+  201  ls -la
+  202  cd /backup
+  203  cd /opt/backup
+  204  ls -la
+  205  cd opt/160924-ptm/dmytr0lkh
+  206  cd /opt/160924-ptm/dmytr0lkh
+  207  ls -la
+  208  chmod +x script2211.sh
+  209  ls -la
+  210  vim script2211.sh
+  211  ./script2211.sh
+  212  cd ..
+  213  ls -la
+  214  cd /opt/160924-ptm/dmytr0lkh
+  215  vim script2211.sh
+  216  ./script2211.sh
+  217  vim script2211.sh
+  218  ./script2211.sh
+  219  vim script2211.sh
+  220  ./script2211.sh
+  221  cd ../..
+  222  cd ..
+  223  wdt
+  224  pwd
+  225  ls -la
+  226  cd /home
+  227  ls -la
+  228  cd /opt/160924-ptm/dmytr0lkh
+  229  vim script2211.sh
+  230  ./script2211.sh
+  231  cd /var
+  232  ls -la
+  233  cd /var/www
+  234  cd /var/.updated
+  235  cd /var/tmp
+  236  ls -la
+  237  vim script2211.sh
+  238  cd /opt
+  239  ls -la
+  240  cd /160924-ptm
+  241  cd /opt/160924-ptm
+  242  ls -la
+  243  cd ~/dmytr0lkh
+  244  cd /opt/160924-ptm/dmytr0lkh
+  245  ls -la
+  246  vim script2211.sh
+  247  ls -la
+  248  ./script2211.sh
+  249  cd ..
+  250  ls -la
+  251  exit
+  252  cd /opt/160924-ptm/
+  253  cd izzet
+  254  ls
+  255  vim task_IZZET.sh 
+  256  ./task_IZZET.sh
+  257  ls -l
+  258  chmod 700 task_IZZET.sh 
+  259  ls -l
+  260  ./task_IZZET.sh
+  261  vim task_IZZET.sh 
+  262  crontab -e
+  263  vim task_IZZET.sh 
+  264  crontab -e
+  265  ./task_IZZET.sh
+  266  history | tail -4 >> history.txt
+  267  tar -czf archive.tar.gz *.24 history.txt 
+  268  ls -l
+  269  cat history.txt 
+  270  vim task_IZZET.sh 
+  271  exit
+  272  ls
+  273  cd /opt/
+  274  ls
+  275  cd 160924-ptm
+  276  ls
+  277  cd /Michael/
+  278  cd ~/Michael/
+  279  ls
+  280  cd /Michael
+  281  cd Michael
+  282  ls
+  283   nano permission_checker.sh 
+  284  cd ~
+  285  git clone https://github.com/Miki-Zn/Homework_12.git
+  286  cd Homework_12
+  287  git checkout -b feature
+  288  ls
+  289  git add README.md .gitignore
+  290  git commit -m "Update README.md and .gitignore"
+  291  git log
+  292  git push origin feature
+  293  git push origin feature --force
+  294  git marge feature
+  295  git push origin main
+  296  history > history.txt
+  297  git add history.txt
+  298  git commit -m "Add history.txt with command history"
+  299  git push origin main
+  300  ls
+  301  cat README.md
+  302  cat history.txt
+  303  clear
+  304   ^V
+  305  -bash: ^V: command not found
+  306  [ec2-user@ip-10-0-42-153 Homework_12]$
+  307  clear
+  308  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+  309  cd ~/Michael
+  310  ls
+  311  cd Michael
+  312  cd opt
+  313  cd /opt/160924-ptm/
+  314  ls
+  315  cd Michael
+  316  nano task_Michael.sh
+  317  chmod +x task_Michael.sh 
+  318  export EDITOR=nano
+  319  crontab -e
+  320  ./task_Michael.sh
+  321  tar -cvf files_archive.tar *_$(date + '%d.%m.%y')
+  322  history > history.txt
+  323  tar -rvf files_archive.tar history.txt 
+  324  crontab -e
+  325  tar -xvf files_archive.tar 
+  326  cd /opt/090924-wdm/Laina_Zolotiukhina
+  327  nano permission_checker.sh
+  328  .permission_checher.sh
+  329  ./permission_checker.sh
+  330  nano permission_checker.sh
+  331  cd /opt/090924-wdm/PBobko/
+  332  cd ..
+  333  ls -la
+  334  cd Kutushev/
+  335  ls -la
+  336  nano task_Kutushev.sh 
+  337  cd ..
+  338  cd PBobko/
+  339  touch task_Polina.sh
+  340  chmod +x task_Polina.sh 
+  341  ls -la
+  342  nano task_Polina.sh 
+  343  crontab -e
+  344  ls -la
+  345  ./task_Polina.sh 
+  346  nano task_Polina.sh 
+  347  ./task_Polina.sh 
+  348  ls -la
+  349  nano task_Polina.sh 
+  350  ./task_Polina.sh 
+  351  ls -la
+  352  nano task_Polina.sh 
+  353  ./task_Polina.sh 
+  354  nano task_Polina.sh 
+  355  ./task_Polina.sh 
+  356  ls -la
+  357  nano task_Polina.sh 
+  358  ./task_Polina.sh 
+  359  ls -la
+  360  nano task_Polina.sh 
+  361  ./task_Polina.sh 
+  362  ls -la
+  363  crontab -e
+  364  nano task_Polina.sh 
+  365  ./task_Polina.sh 
+  366  ls -la
+  367  nano task_Polina.sh 
+  368  ./task_Polina.sh 
+  369  ls -la
+  370  cat text.txt 
+  371  rm *.txt
+  372  ls -la
+  373  nano task_Polina.sh 
+  374  ./task_Polina.sh 
+  375  ls -la
+  376  nano task_Polina.sh 
+  377  ./task_Polina.sh 
+  378  ls -la
+  379  rm *.txt
+  380  ls -la
+  381  nano task_Polina.sh 
+  382  ./task_Polina.sh 
+  383  ls -la
+  384  nano task_Polina.sh 
+  385  ./task_Polina.sh 
+  386  ls -la
+  387  tar -czf archive_Polina.tar.gz *.txt
+  388  ls -la
+  389  exit
+  390  crontab -e
+  391  cd /opt/160924-ptm/liljana
+  392  ls -la
+  393  vim script19.sh
+  394  . script19.sh
+  395  ls -la
+  396  chmod +x script19.sh
+  397  ls -la
+  398  . script19.sh
+  399  ls -la
+  400  vim script19.sh
+  401  . script19.sh
+  402  ls -la
+  403  cd /opt/160924-ptm/liljana
+  404  ls -la
+  405  cat bash.sh
+  406  tar -cf arc1.tar bash.sh
+  407  ls -la
+  408  tar czf arc2.tar.gz bash.sh
+  409  ls -la
+  410  cd ..
+  411  cd /opt/160924-ptm/liljana
+  412  mkdir 13_M
+  413  cd 13_M
+  414  vim script.sh
+  415  chmod +x script.sh
+  416  . script.sh
+  417  ls -la
+  418  tar -tf 1.tar.gz
+  419  cd /opt/160924-ptm/liljana
+  420  ls -la
+  421  cd /opt/160924-ptm/liljana/13_M
+  422  ls -la
+  423  vim script.sh
+  424  . script.sh
+  425  mc
+  426  10
+  427  q
+  428  cd /opt/160924-ptm/liljana/13_M
+  429  ls -la
+  430  cat result.txt
+  431  vim script.sh
+  432  сd tmp
+  433  сd /opt/090924-wdm/tmp
+  434  сd opt/090924-wdm/tmp
+  435  сd 
+  436  cd /opt
+  437  cd 090924-wdm/tmp
+  438  cd 090924-wdm
+  439  cd tmp
+  440  cd ./
+  441  cd .
+  442  cd opt
+  443  cd /opt
+  444  cd tmp
+  445  .
+  446  cd .
+  447  exit4
+  448  exit
+  449  cd /opt/090924-wdm/
+  450  ls -al
+  451  cat /ets/os-release
+  452  ls -la
+  453  cat /ec2/os-release
+  454  cat /ec2-user/os-release
+  455  pwd
+  456  cd /opt
+  457  ls -la
+  458  cd /
+  459  pwd
+  460  cat /etc
+  461  cat /etc/os-release
+  462  cat /etc/os-release cat /etc/os-release
+  463   cat /etc/os-release
+  464  cat /etc/os-release | grep "PRETTY_NAME" | cut -d '"'-f 2
+  465  cat /etc/os-release | grep "PRETTY_NAME" | cut -d '"' -f 2
+  466  cd /opt/160924-ptm/valklei/valerii
+  467  ls -la
+  468  touch learn_task2.sh
+  469  ls -la
+  470  vim learn_task2.sh
+  471  chmod +x learn_task2.sh
+  472  ls -la
+  473  . /learn_task2.sh
+  474  . learn_task2.sh
+  475  vim learn_task2.sh
+  476  . learn_task2.sh
+  477  vim learn_task2.sh
+  478  . learn_task2.sh
+  479  vim learn_task2.sh
+  480  . learn_task2.sh
+  481  vim learn_task2.sh
+  482  . learn_task2.sh
+  483  vim learn_task2.sh
+  484  . learn_task2.sh
+  485  vim learn_task2.sh
+  486  . learn_task2.sh
+  487  cd /opt/090924-wdm/Kozlinskiy/
+  488  ls -al
+  489  cd ..
+  490  cd /opt/090924-wdm/VlasB/
+  491  ls -al
+  492  cat permission_checker.sh
+  493  cd ..
+  494  cd /opt/090924-wdm/Bankovych/
+  495  ls -al
+  496  cd /opt/160924-ptm/valklei/valerii
+  497  vim learn_task2.sh
+  498  ps -eo
+  499  ps -eo pid,ppid,cmd,%mem,%cpu-- sort=-%mem | head -n 6
+  500  ps -eo pid,ppid,cmd,%mem,%cpu -- sort = -%mem | head -n 6
+  501  ps -eo pid,ppid,cmd,%mem,%cpu
+  502  ps -eo pid,ppid,cmd,%mem,%cpu --sort=-%mem | head -n 6
+  503  vim learn_task2.sh
+  504  . learn_task2.sh
+  505  crontab -l
+  506  cd /opt/160924-ptm/liljana
+  507  touch script2.sh output2.log
+  508  vim script2.sh
+  509  chmod +x script2.sh
+  510  crontab -e 
+  511  tail -F output2.log
+  512  crontab -e 
+  513  crontab -l
+  514  crontab -e 
+  515  crontab -l
+  516  cd /opt/160924-ptm/liljana
+  517  vim task_LILJANA.sh
+  518  chmod +x task_LILJANA.sh
+  519  . task_LILJANA.sh
+  520  vim task_LILJANA.sh
+  521  . task_LILJANA.sh
+  522  vim task_LILJANA.sh
+  523  . task_LILJANA.sh
+  524  vim task_LILJANA.sh
+  525  . task_LILJANA.sh
+  526  vim task_LILJANA.sh
+  527  . task_LILJANA.sh
+  528  vim task_LILJANA.sh
+  529  . task_LILJANA.sh
+  530  vim task_LILJANA.sh
+  531  . task_LILJANA.sh
+  532  vim task_LILJANA.sh
+  533  . task_LILJANA.sh
+  534  vim task_LILJANA.sh
+  535  . task_LILJANA.sh
+  536  crontab -e
+  537  crontab -l
+  538  tail -F task_LILJANA.sh
+  539  crontab -e
+  540  crontab -l
+  541  ls -la
+  542  cat task_
+  543  cat task_LILJANA.sh
+  544  cd /tmp
+  545  cat tmp
+  546  cat /tmp
+  547  ls- al
+  548  ls -al
+  549  cd /opt/260824-wde/Natalia_Bluhme/
+  550  nano
+  551  ls -la
+  552  ls
+  553  ls -la
+  554  grep -E -r -i "error" /var/log | awk -F ':' '{print $2}' | sort | uniq -c | sort -nr > "$report_file"
+  555  sudo grep -E -r -i "error" /var/log | awk -F ':' '{print $2}' | sort | uniq -c | sort -nr > "$report_file"
+  556  sudo grep -E -r -i "error" /var/log/ | awk -F ':' '{print $2}' | sort | uniq -c | sort -nr > "$report_file"
+  557  sudo grep -E -r -i "error" /var/log
+  558  sudo grep -E -r -i "error" /var/log/ | awk -F ':' '{print $3}' | sort | uniq -c | sort -nr
+  559  grep --help
+  560  sudo grep -r -i "error" /var/log/  | sort | uniq -c | sort -nr
+  561  sudo grep -r -i "error" /var/log/  | grep -v "Binary" | sort | uniq -c | sort -nr
+  562  sudo grep -r -i "error" /var/log/  | grep -v "Binary" | sort | uniq -c | sort -nr > /opt/090924-wdm/VAndreev/report
+  563  cat  /opt/090924-wdm/VAndreev/report | head -n 5
+  564  ls -al
+  565  rm -rf *.24
+  566  ls -al
+  567  cd /opt/090924-wdm/VAndreev/
+  568  ls -al
+  569  rm report 
+  570  ls -al
+  571  cat Backup.sh 
+  572  nano backup1.sh
+  573  ls -al /
+  574  ls -al /tmp/
+  575  ls -al
+  576  chmod +x backup1.sh 
+  577  ./backup1.sh 
+  578  ls -al /tmp/backup/
+  579  tar -tc /tmp/backup/ec2-user_backup_2024-11-25.tar.gz 
+  580  tar -tf /tmp/backup/ec2-user_backup_2024-11-25.tar.gz 
+  581  ls -al /tmp/backup/
+  582  tar -tf /tmp/backup/opt_backup_2024-11-25.tar.gz 
+  583  sudo rm -rf /tmp/backup/
+  584  ls -al /opt/
+  585  rm -rf /opt/Artem_Boguslavskyi/
+  586  rm -rf /opt/backup/
+  587  rm -rf /opt/folder_*
+  588  rm -rf /opt/Lena_Yailo/
+  589  rm -rf /opt/NatBlu/
+  590  rm -rf /opt/yuriy/
+  591  rm -rf /opt/permission_checker.sh
+  592  rm -rf /opt/permission_checker.sh.save 
+  593  ls -al /opt/
+  594  ls -al /opt/aws/
+  595  ls -al /opt/aws/bin/
+  596  ls -al
+  597  rm backup1.sh 
+  598  sudo grep -r -i "error" /var/log/  | grep -v "Binary" | sort | uniq -c | sort -nr > 
+  599  sudo grep -E -r -i "error|warning" /var/log/  | grep -v "Binary" | sort | uniq -c | sort -nr > /opt/090924-wdm/VAndreev/report
+  600  cat report |grep -i "warning"
+  601  rm report 
+  602  exit
+  603  man sort
+  604  cd /opt/090924-wdm/ValentinG
+  605  ls -la
+  606  nano monitor.sh
+  607  la
+  608  ls -la
+  609  chmod +x monitor.sh 
+  610  ls -la
+  611  ./monitor.sh 
+  612  #!/bin/bach
+  613  #
+  614  threshold = 70
+  615  nano script.sh
+  616  ls -al
+  617  nano backup.sh
+  618  ZZ
+  619  cd /opt/090924-wdm/ValentinG
+  620  nano backup_new.sh
+  621  ls -la
+  622  du -h
+  623  df -h
+  624  find -name sh
+  625  find -sh
+  626  find -size
+  627  find type -f
+  628  find type f
+  629  ls -la
+  630  cat 1_19.11.24
+  631  rm 1_19.11.24
+  632  ls -la
+  633  find . -type f -name "*.txt"
+  634  cd /opt/090924-wdm/VAndreev/
+  635  sort --help
+  636  man sort
+  637  nano monitor.sh
+  638  df /
+  639  df / | awk '{print $5}'
+  640  df / | tail -N +2 |awk '{print $5}'
+  641  df / | tail -n +2 |awk '{print $5}'
+  642  df / | tail -n +2 |awk '{print $5}' | grep -v "%"
+  643  df / | tail -n +2 |awk '{print $5}' | sed 's/%//'
+  644  nano monitor.sh 
+  645  chown +x monitor.sh 
+  646  chmod +x monitor.sh 
+  647  ./monitor.sh 
+  648  nano monitor.sh 
+  649  ./monitor.sh 
+  650  nano monitor.sh 
+  651  ./monitor.sh 
+  652  nano monitor.sh 
+  653  ./monitor.sh 
+  654  nano monitor.sh 
+  655  who
+  656  ls -al
+  657  nano backup.sh
+  658  chmod +x backup.sh 
+  659  ./backup.sh 
+  660  nano backup.sh
+  661  ls -al /tmp/
+  662  ls -al /tmp/backup/
+  663  ./backup.sh 
+  664  ls -al /tmp/backup/
+  665  date
+  666  nano backup.sh 
+  667  date
+  668  ./backup.sh 
+  669  nano backup.sh 
+  670  ./backup.sh 
+  671  ls -al /tmp/backup/
+  672  nano backup.sh 
+  673  pwd 
+  674  crontab -e
+  675  ls -al
+  676  nano log_monitor.sh
+  677  sudo grep -r -i -E "error|warning" "$log_dir"  | grep -v "Binary"
+  678  sudo grep -r -i -E "error|warning" /var/log  | grep -v "Binary"
+  679  unig --help
+  680  sort --help
+  681  sudo grep -r -i -E "error|warning" /var/log  | grep -v "Binary" | sort -rn | head 
+  682  nano log_monitor.sh
+  683  chmod +x log_monitor.sh 
+  684  ./log_monitor.sh 
+  685  ls -al
+  686  rm -rf /tmp/backup/
+  687  rm Report.txt 
+  688  exit
+  689  cd /opt/090924-wdm/OksanaM
+  690  ls -al
+  691  nano script1_251124.sh
+  692  chmod +x script1_251124.sh
+  693  ./script1_251124.sh
+  694  nano script1_251124.sh
+  695  nano script3_251124.sh
+  696  ls -al
+  697  chmod +x script3_251124.sh
+  698  ls -al
+  699  nano script4_251124.sh
+  700  exit
+  701  /opt/090924-wdm/
+  702  cd /opt/090924-wdm/
+  703  ls
+  704  cd /opt/090924-wdm/Kutushev/
+  705  ls
+  706  cd exercise/
+  707  nano
+  708  nano monitor.sh 
+  709  chmod +x monitor.sh 
+  710  ./monitor.sh 
+  711  nano monitor.sh 
+  712  ./monitor.sh 
+  713  ls
+  714  nano backup.sh
+  715  chmod +x backup.sh 
+  716  nano backup.sh 
+  717  nano findError.sh
+  718  chmod +x findError.sh 
+  719  ./findError.sh 
+  720  cat /tmp/error_report.txt 
+  721  nano findError.sh 
+  722  cat /tmp/error_report.txt 
+  723  exit
+  724  cd 090924-wdm
+  725  ls -la
+  726  cd /opt
+  727  ls -la
+  728  cd /opt/090924-wdm
+  729  cd /Kozlinskiy
+  730  ls -la
+  731  cd /Kozlinskiy
+  732  cd ~/Kozlinskiy
+  733  cd Kozlinskiy
+  734  df / | awk '{print $5}'
+  735  mkdir -p 251124
+  736  cd 251124
+  737  nano 
+  738  nano backup.sh
+  739  nano log_monitor.shr
+  740  cd /opt/090924-wdm/Laina_Zolotiukhina
+  741  nano task_LAINA.sh
+  742  chmod +x task_LAINA.sh
+  743  export EDITOR=nano
+  744  crontab -e
+  745  history > history.txt
+  746  tar -czvf task_files.tar.gz 1_* history.txt
+  747  crontab -e
+  748  cd /opt/090924-wdm/Laina_Zolotiukhina
+  749  crontab -e
+  750  cd 
+  751  cd /opt/090924-wdm/Laina_Zolotiukhina
+  752  nano task_LAINA.sh
+  753  export EDITOR=nano
+  754  crontab -e
+  755  history > history.txt
+  756  tar -czf archive.tar.gz *.*
+  757  ls
+  758  cd ec2-user@linux.itcareerhub.de:/opt/090924-wdm/Kvitka/
+  759  ls
+  760  pwd
+  761  cd /opt/090924-wdm/Kvitka/
+  762  nano monitor.sh
+  763  chmod +x monitor.sh
+  764  ./monitor.sh 
+  765  nano monitor.sh 
+  766  ./monitor.sh 
+  767  pwd
+  768  nano monitor.sh 
+  769  chmod +x monitor.sh 
+  770  ./monitor.sh 
+  771  nano backup.sh
+  772  cd /opt/090924-wdm/Kutushev/exercise/
+  773  ls
+  774  nano findError.sh 
+  775  ./findError.sh 
+  776  cat /tmp/error_report.txt 
+  777  exit
+  778  cd /opt/160924-ptm/Svetla/
+  779  touch task_Svetla.sh
+  780  ls -la
+  781  vim task_Svetla.sh 
+  782  bash task_Svetla.sh 
+  783  vim task_Svetla.sh 
+  784  bash task_Svetla.sh 
+  785  vim task_Svetla.sh 
+  786  bash task_Svetla.sh 
+  787  vim task_Svetla.sh 
+  788  bash task_Svetla.sh 
+  789  ls -la
+  790  cd pr_9/
+  791  ls -la
+  792  history > history.txt
+  793  tar -czf archive.tar.gz *.*
+  794  ls -la
+  795  cd /opt/090924-wdm/Sergius/
+  796  nano monitor.sh
+  797  df /
+  798  df / | awk '{print $5}'
+  799  df / | tail -n +2 | awk '{print $5}'
+  800  df / | tail -n +2 | awk '{print $5}' | sed 's/%//'
+  801  nano monitor.sh
+  802  chmod +x monitor.sh 
+  803  ./monitor.sh 
+  804  nano monitor.sh
+  805  ./monitor.sh 
+  806  nano monitor.sh
+  807  ./monitor.sh 
+  808  nano monitor.sh
+  809  ./monitor.sh 
+  810  nano monitor.sh
+  811  ./monitor.sh 
+  812  who
+  813  cd /opt/090924-wdm/Sergius/
+  814  ls -al
+  815  nano time.sh
+  816  chmod +x time.sh 
+  817  ./time.sh 
+  818  nano time.sh
+  819  ./time.sh 
+  820  ls -al
+  821  ls -al /tmp/backup/
+  822  nano time.sh
+  823  ls -al 
+  824  ls -al time.sh 
+  825  ./time.sh 
+  826  nano time.sh
+  827  ./time.sh 
+  828  ls -al 
+  829  cat time.sh 
+  830  pwd
+  831  crontab -e
+  832  pwd
+  833  ls -al
+  834  nano time.sh
+  835  cat backup_name 1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c
+  836  pwd
+  837  ls -al
+  838  chmod +x backup_name 
+  839  chmod +x monitor.sh 1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c
+  840  cat backup_name 1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c1;2c
+  841  ls -al
+  842  pwd
+  843  nano time.sh
+  844  nano backup_name 
+  845  rm backup_name 
+  846  ch
+  847  mkdie backup_name
+  848  ls
+  849  ls -al
+  850  rm NewFolder/
+  851  rm NewFolder
+  852  ls -al
+  853  nano backup.sh 
+  854  chmod +x backup.sh 
+  855  ./ backup.sh 
+  856  ./backup.sh 
+  857  pwd
+  858  nano backup.sh 
+  859  ./backup.sh 
+  860  nano backup.sh 
+  861  chmod +x backup.sh 
+  862  ./backup.sh 
+  863  ls -al
+  864  nano backup.sh 
+  865  ./backup.sh 
+  866  pwd
+  867  ls -al
+  868  nano backup.sh 
+  869  chmod +x backup.sh 
+  870  ./backup.sh 
+  871  nano backup.sh 
+  872  ./backup.sh 
+  873  ls -al
+  874  nano backup.sh 
+  875  chmod +x backup.sh
+  876  ./backup.sh
+  877  nano backup.sh 
+  878  ./backup.sh
+  879  chmod +x backup.sh
+  880  nano backup.sh 
+  881  ./backup.sh
+  882  chmod +x backup.sh
+  883  ./backup.sh
+  884  cat backup.sh 
+  885  nano backup.sh 
+  886  ./backup.sh
+  887  nano backup.sh 
+  888  ./backup.sh
+  889  ls -al
+  890  cat monitor.sh 
+  891  ./monitor.sh 
+  892  cat backup
+  893  cat backup.sh 
+  894  ls -al
+  895  nano backup.sh
+  896  ./backup.sh 
+  897  ls -al
+  898  nano backup.sh
+  899  cat backup_name 
+  900  ls -al
+  901  rm backup_name
+  902  nano backup.sh
+  903  ls -l /
+  904  ls -l /tmp/backup/
+  905  exit
+  906  cd /opt/090924-wdm/Kutushev/exercise/
+  907  nano backup.sh 
+  908  exit
+  909  cd /opt/160924-ptm/igor/
+  910  mkdir l_15
+  911  ls
+  912  rm l_15/
+  913  rm -r l_15/
+  914  mkdir 15_M
+  915  cd 15
+  916  cd 15_M/
+  917  vim 1.sh
+  918  chmod 1.sh 
+  919  chmod =x 1.sh 
+  920  chmod +x 1.sh 
+  921  ls
+  922  ./1.sh 
+  923  ls -la
+  924  ./1.sh
+  925  bash 1.sh
+  926  chmod +777 1.sh 
+  927  ls -la
+  928  ./1.sh
+  929  chmod +007 1.sh 
+  930  ls -la
+  931  chmod 007 1.sh 
+  932  ls -la
+  933  ./1.sh
+  934  vim 2.sh
+  935  uptime | awk -F'[a-z]:' '{ print $2 }'
+  936  uptime
+  937  vim 2.sh
+  938  vim 3.sh
+  939  vim 4.sh
+  940  /opt/090924-wdm/AlonaRud
+  941  /opt/090924-wdm/
+  942  cd /opt/090924-wdm/AlonaRud
+  943  nano sleeper.sh
+  944  nano sleeper.sh 
+  945  chmod +x sleeper.sh 
+  946  ./sleeper.sh 
+  947  ls -al
+  948  nano sleeper.sh 
+  949  ls -al
+  950  nano process_info.txt 
+  951  nano sleeper.sh 
+  952  ls -al
+  953  nano sleeper.sh 
+  954  ls -al
+  955  cat sleeper.sh 
+  956  mkdir -p HomeW15
+  957  ls -al
+  958  ls -al HomeW15/
+  959  nano sleeper.sh 
+  960  ./sleeper.sh 
+  961  ls -al
+  962  ls -al HomeW
+  963  ls -al HomeW15
+  964  ls -al 
+  965  cd /opt/090924-wdm/AlonaRud
+  966  -ls -al
+  967  ls -al
+  968  nano sleeper.sh 
+  969  ls -al
+  970  ./sleeper.sh 
+  971  cat process_info.txt 
+  972  nano process_info.txt 
+  973  nano sleeper.sh 
+  974  cd /opt/
+  975  ls -al
+  976  ls -al 040324-wde/
+  977  ls -al 040324-wde/VAndreev/
+  978  cat 040324-wde/VAndreev/backup.sh 
+  979  cat 040324-wde/VAndreev/pinger.sh 
+  980  ls -al 040324-wde/VAndreev/
+  981  ls -al
+  982  exit
+  983  df
+  984  df /
+  985  df / | grep /
+  986  df / | grep / | awk '{print $5}' 
+  987  df / | grep / | awk '{print $5}' | sed 's/%//q'
+  988  df / | grep / | awk '{print $5}' | sed 's/%//g'
+  989  cd /opt
+  990  cd 160924-ptm/igor/
+  991  vi 1.sh
+  992  ls -la
+  993  cd 15_M/
+  994  ls -la
+  995  export LANG=ru_RU.UTF-8
+  996  locale
+  997  git help commit
+  998  exit
+  999  cd opt/160924-ptm/Svetla
+ 1000  pwd
+ 1001  cd /opt/160924-ptm/Svetla
+ 1002  touch new_script.sh
+ 1003  vim new_script.sh 
+ 1004  ls -la
+ 1005  chmod +x new_script.sh 
+ 1006  ls -la
+ 1007  bash new_script.sh 
+ 1008  bash .
+ 1009  . /script_day_18.sh 
+ 1010  ./script_day_18.sh 
+ 1011  ./new_script.sh 
+ 1012  ls -la
+ 1013  ./new_script.sh
+ 1014  pwd
+ 1015  . /new_script.sh
+ 1016  . new_script.sh 
+ 1017  bash new_script.sh 
+ 1018  vim new_script.sh 
+ 1019  ./new_script.sh 
+ 1020  vim new_script.sh 
+ 1021  cd /opt/160924-ptm/dmytr0lkh/script2611.sh
+ 1022  vim /opt/160924-ptm/dmytr0lkh/script2611.sh
+ 1023  cd /opt/160924-ptm/Svetla
+ 1024  vim new_script.sh 
+ 1025  ./new_script.sh 
+ 1026  git clone https://github.com/SvetlaPost/learning_git.git
+ 1027  cd learning_git/
+ 1028  mkdir 160824-ptm
+ 1029  cd 160824-ptm/
+ 1030  touch Svetla.txt
+ 1031  cd ..
+ 1032  git add grour1/Svetla.txt
+ 1033  git add 160824-ptm/Svetla.txt
+ 1034  git commit -m "the Svetla.txt was added to 160824-ptm"
+ 1035  git push origin main
+ 1036  git status
+ 1037  git clone https://github.com/SvetlaPost/practical_work_8
+ 1038  pwd
+ 1039  ls -la
+ 1040  git checkout -b feature
+ 1041  vim README.md 
+ 1042  vim .gitignore
+ 1043  git add README.md .gitignore 
+ 1044  git push origin feature
+ 1045  git checkout main
+ 1046  git merge feature
+ 1047  history > history.txt
