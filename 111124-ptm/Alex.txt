@@ -1,1 +1,1 @@
-echo "Hi und nochmal Hi"
+echo "Hi und noch mal Hi"
