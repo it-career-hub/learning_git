@@ -1,0 +1,22 @@
+# PyCharm
+.idea/
+*.iml
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Временные файлы
+*.tmp
+*.log
+*.swp
+
+# Виртуальные окружения Python
+venv/
+env/
+__pycache__
+*.pyc
