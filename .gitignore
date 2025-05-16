@@ -1,0 +1,22 @@
+# PyCharm
+.idea/
+*.iml
+
+# macOS
+.DS_Stor
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+
+*.tmp
+*.log
+*.swp
+
+#  
+venv/
+env/
+__pycache__
+*.pyc
