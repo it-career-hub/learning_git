@@ -1,0 +1,16 @@
+#!/bin/bash
+
+for i in {1..10};do
+	echo "$(date +"%H:%M:%S") $(ps -ef | wc -l)"
+	sleep 2
+done
+
+cat /proc/cpuinfo >> homework15.txt
+
+grep ^NAME= /etc/os-release | tr -d '""' >> homework15.txt
+
+grep ^NAME= /etc/os-release | cut -d '=' -f2 | tr -d '""' >> homework15.txt
+
+for i in {50..100}; do
+	touch "${i}.txt"
+done
