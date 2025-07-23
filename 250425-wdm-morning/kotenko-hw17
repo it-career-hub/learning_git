@@ -1,0 +1,6 @@
+#!/bin/bash
+#
+echo "Homework 17: done"
+echo "Kotenko Alexandra"
+echo "Date: $(date)"
+
