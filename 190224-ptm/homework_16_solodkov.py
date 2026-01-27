@@ -1,0 +1,1 @@
+print("It's a homework 16 for linux")
