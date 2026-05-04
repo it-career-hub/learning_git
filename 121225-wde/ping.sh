@@ -17,7 +17,7 @@ if grep -q "time=" ping_output.txt; then
         echo "Ping failed ($fail_count)"
 
         if [ "$fail_count" -ge 3 ]; then
-            echo "Ping failed 3 times"
+            echo "Ping failed 3 times in a row"
         fi
     fi
 
