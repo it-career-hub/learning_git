@@ -1,0 +1,16 @@
+def merge_dicts(**kwargs):
+    res_dict = {}  # Обычный словарь
+
+    for key, value in kwargs.items():  # Перебираем переданные словари
+        for k, v in value.items():  # Перебираем ключи и значения внутри словаря
+            res_dict.setdefault(k, []).append(v)  # Добавляем в список
+
+    return res_dict
+
+
+result = merge_dicts(
+    dict_1={'a': 1, 'b': 2},
+    dict_2={'b': 3, 'c': 4},
+    dict_3={'c': 5, 'd': 6})
+
+print(result)
